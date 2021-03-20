@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/member-ordering */
+/* eslint-disable @typescript-eslint/method-signature-style */
 
 import { create, UseStore, StoreApi } from 'zustand';
-
 import { ICalCalendar } from 'ical-generator';
 import * as Rules from './rules';
 import { GenerateOptions } from './generator';
